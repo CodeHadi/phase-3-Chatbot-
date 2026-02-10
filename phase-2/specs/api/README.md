@@ -1,0 +1,1 @@
+API specs will live here. Start with `/api/tasks` CRUD and auth flows.

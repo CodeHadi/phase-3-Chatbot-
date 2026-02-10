@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+sqlalchemy
+python-dotenv
+pyjwt
+passlib[argon2]
+openai
